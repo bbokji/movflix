@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Website</title> 
+</head> <body bgcolor=black>
+<body> 
+     <header>
+        <font color= red> <h1>WHAT TO WATCH?</h1> </font>
+ <nav>
+            <ul>
+<table border="1">
+<tr>
+<td> <li><a href="nextpage.html">Jujutsu Kaisen</a></li> </td>
+<td> <li><a href="tokyoghoul.html">Tokyo Ghoul</a></li> </td>
+<td> <li><a href="aot.html">Attack on Titan</a></li> </td>
+<td> <li><a href="tpn.html">The Promised Neverland</a></li> </td>
+
+</tr>
+</table>
+
+<p align=center> <img src="demm.gif"  width="63%"/> </p> 
+
+                
+
+</html>

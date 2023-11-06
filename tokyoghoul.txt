@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVFLIX - Next Page</title>
+</head>
+<body>
+    <header>
+        <header> <font color=red face="Sharp Sans No.1 Medium">
+        <h1>MOVFLIX</h1> </h1> </font>
+    </header>
+
+<body bgcolor=black>
+
+    <main>
+        <p> <section class="movie"> <font color=red size=15
+            <h2>Tokyo Ghoul</h2> </font>
+            <p align=justified> <font color=white > Tokyo is haunted by mysterious ghouls who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like he is, at the café he frequents. Little does Kaneki realize that his fate will change overnight. </p> </font>
+
+<a href="https://youtu.be/7aMOurgDB-o?si=xq4G_g-chXMclKFF">PLAY</a>
+       <p align=center>  <img src="tokyo.gif" alt="Movie 2 Poster"> width="63%"/> </p> 
+        </section>
+
+        <a href="mainn.html">Home</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MOVFLIX</p>
+    </footer>
+</body>
+</html>

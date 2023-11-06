@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVFLIX - Next Page</title>
+</head>
+<body>
+    <header>
+         <header> <font color=red face="Sharp Sans No.1 Medium">
+        <h1>MOVFLIX</h1> </h1> </font>
+    </header>
+
+<body bgcolor=black>
+
+    <main>
+        <p> <section class="movie"> <font color=red size= 15
+            <h2>Jujutsu Kaisen</h2> </font>
+            <p> <font color=white> In a world where demons feed on unsuspecting humans, fragments of the legendary and feared demon Ryoumen Sukuna were lost and scattered about. Should any demon consume Sukuna's body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of Jujutsu Sorcerers who exist to protect the precarious existence of the living from the undead! Yuuji Itadori is high schooler who spends his days visiting his bedridden grandfather. Although he looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Club. One day, the club manages to get their hands on a sealed cursed object, but little do they know the terror they'll unleash when they break the seal..</p> </font>
+
+<a href="https://youtu.be/5yb2N3pnztU?si=y4VJNoA0GGBkbauU">PLAY</a>
+         <p align=center>  <img src="jujutsu.gif" alt="Movie 1 Poster">
+        </section>
+
+        <a href="mainn.html">Home</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 MOVFLIX</p>
+    </footer>
+</body>
+</html>
